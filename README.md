@@ -1,4 +1,4 @@
-# How to claim new Bitcoin ABC from BitcoinCash Hard Fork BCHA wallet
+# How to claim new Bitcoin ABC from BitcoinCash Hard Fork - BCHA wallet
 
 <div align="center">
   <img src="https://i.ibb.co/8b6C8qK/Ac-G3cashh-400x400.png" width="80">
